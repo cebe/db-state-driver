@@ -1,4 +1,4 @@
-# EDbStateDriver
+# EDbStateDriver [![Project status](http://stillmaintained.com/cebe/db-state-driver.png)](http://stillmaintained.com/cebe/db-state-driver)
 
 This application component extends CDbConnection to be able to save
 and restore current db states for testing usage.
